@@ -17,7 +17,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 ## Integrantes
-- *Aquí cada integrante agregará su nombre con un commit individual.*
+- *Diego Alejandro Pineda Abaunza , pongan sus nombres acá*
 
 ## Conclusiones (se agregarán al final del proyecto)
 - *Pendientes de completar.*
