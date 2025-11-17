@@ -17,7 +17,8 @@ pip install -r requirements.txt
 jupyter notebook
 
 ## Integrantes
-- *Diego Alejandro Pineda Abaunza , pongan sus nombres acá*
+- Diego Alejandro Pineda Abaunza
+- Daniel Estiven Pacheco Villagrande
 
 ## Conclusiones (se agregarán al final del proyecto)
 - *Pendientes de completar.*
