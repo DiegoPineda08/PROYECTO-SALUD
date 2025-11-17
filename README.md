@@ -54,7 +54,7 @@ Para abrir el notebook: jupyter notebook
  Integrantes
 
 
-(Agregar aquí los demás nombres cuando hagan su commit.)
+(Diego Alejandro Pineda Abaunza ,)
 
  Conclusiones 
 
