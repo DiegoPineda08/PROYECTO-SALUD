@@ -16,9 +16,6 @@ El objetivo del proyecto es explorar los datos y extraer conclusiones significat
   Documento de presentacion proyecto 
 - **requirements.txt**  
   Lista de dependencias necesarias para ejecutar el proyecto.
-- **README.md**  
-  Documento descriptivo del proyecto.
-
 ---
 
 ##  Diccionario de la base de datos
@@ -54,7 +51,7 @@ Para abrir el notebook: jupyter notebook
  Integrantes
 
 
-(Diego Alejandro Pineda Abaunza ,Daniel Estiven Pacheco Villagrande)
+(Diego Alejandro Pineda Abaunza ,Daniel Estiven Pacheco Villagrande, Juan Felipe Zapata Gonzalez )
 
 
 
