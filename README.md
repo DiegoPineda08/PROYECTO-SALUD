@@ -12,18 +12,11 @@ El objetivo del proyecto es explorar los datos y extraer conclusiones significat
 
 - **notebooks/**  
   Contendrá el análisis exploratorio y visualizaciones en formato Jupyter Notebook.
-<<<<<<< HEAD
-
-## Integrantes
-- Diego Alejandro Pineda Abaunza
-- Daniel Estiven Pacheco Villagrande
-
-- **README.md**  
-=======
--**requirements.txt**  
+- **README.md** 
+  Documento de presentacion proyecto 
+- **requirements.txt**  
   Lista de dependencias necesarias para ejecutar el proyecto.
--**README.md**  
->>>>>>> df8a89859e51785e92e996338c00a35e25d5533e
+- **README.md**  
   Documento descriptivo del proyecto.
 
 ---
