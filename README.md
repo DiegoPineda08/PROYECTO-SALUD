@@ -12,11 +12,10 @@ El objetivo del proyecto es explorar los datos y extraer conclusiones significat
 
 - **notebooks/**  
   Contendrá el análisis exploratorio y visualizaciones en formato Jupyter Notebook.
--**requirements.txt**  
+- **README.md** 
+  Documento de presentacion proyecto 
+- **requirements.txt**  
   Lista de dependencias necesarias para ejecutar el proyecto.
--**README.md**  
-  Documento descriptivo del proyecto.
-
 ---
 
 ##  Diccionario de la base de datos
