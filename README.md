@@ -57,9 +57,9 @@ Para abrir el notebook: jupyter notebook
 
  Conclusiones 
 
-Pendiente por completar.
+* El análisis nos permitió identificar los factores que más influyen en el estado de salud de los pacientes. Entre ellos se destacan la edad, el estilo de vida, los hábitos alimenticios y el nivel de actividad física, que demostraron tener la mayor correlación con los indicadores de bienestar.
 
-Pendiente por completar.
+* Se evidenció que los hábitos modificables, como el ejercicio y la dieta, tienen un impacto significativo en la mejora de los resultados de salud. Esto sugiere que invertir en educación y programas de promoción puede generar beneficios reales en la población.
 
 Pendiente por completar.
 
