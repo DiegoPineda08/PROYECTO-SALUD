@@ -61,8 +61,8 @@ Para abrir el notebook: jupyter notebook
 
 * Se evidenció que los hábitos modificables, como el ejercicio y la dieta, tienen un impacto significativo en la mejora de los resultados de salud. Esto sugiere que invertir en educación y programas de promoción puede generar beneficios reales en la población.
 
-Pendiente por completar.
+* De forma general, los altos niveles de riesgo en la salud se producian por malos habitos en las personas hechos diariamente como lo eran: Fumar, consmumo de azucar, poca realizacion de ejercicio entendiendo que lo que se realiza dia a dia es influyente en el bienestar
 
-Pendiente por completar.
+* El analisis de esta base de datos permite concluir que aparte de los habitos que se realizan a diario es importante tener en cuenta el tipo de trabajo en el cual estan las personas y donde se presentan mayor riesgo de salud 
 
-Pendiente por completar.
+* Finalmente, es importante resaltar que mantener hábitos saludables es fundamental para conservar un buen estado de salud. Sin olvidar que también resulta esencial conservar un equilibrio adecuado, especialmente cuando el cuerpo debe enfrentar cambios en la rutina o esfuerzos adicionales. Mantener este balance contribuye a un bienestar constante y sostenible.
